@@ -1,0 +1,65 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "Camiseta básica",
+        "preco": 29.99,
+        "descricao": "Camiseta unissex, disponível em várias cores."
+      },
+      {
+        "id": 2,
+        "nome": "Sapatênis Casual",
+        "preco": 89.99,
+        "descricao": "Sapatênis confortável para uso casual."
+      },
+      {
+        "id": 3,
+        "nome": "Calça Jeans Slim",
+        "preco": 59.99,
+        "descricao": "Calça jeans slim fit, ideal para diversas ocasiões."
+      },
+      {
+        "id": 4,
+        "nome": "Tênis esportivo",
+        "preco": 119.99,
+        "descricao": "Tênis esportivo leve e resistente, adequado para corridas."
+      },
+      {
+        "id": 5,
+        "nome": "Mochila para Notebook",
+        "preco": 79.99,
+        "descricao": "Mochila resistente com compartimento acolchoado para notebook."
+      },
+      {
+        "id": 6,
+        "nome": "Relógio de Pulso Digital",
+        "preco": 49.99,
+        "descricao": "Relógio de pulso digital com cronômetro e alarme."
+      },
+      {
+        "id": 7,
+        "nome": "Câmera de Ação 4K",
+        "preco": 199.99,
+        "descricao": "Câmera de ação com resolução 4K, ideal para esportes radicais."
+      },
+      {
+        "id": 8,
+        "nome": "Fone de Ouvido Bluetooth",
+        "preco": 39.99,
+        "descricao": "Fone de ouvido bluetooth com cancelamento de ruído."
+      },
+      {
+        "id": 9,
+        "nome": "Monitor LED 24 polegadas",
+        "preco": 249.99,
+        "descricao": "Monitor LED Full HD, ideal para uso profissional."
+      },
+      {
+        "id": 10,
+        "nome": "Teclado Mecânico Gamer",
+        "preco": 129.99,
+        "descricao": "Teclado mecânico para jogos com iluminação RGB."
+      }
+    ]
+  }
+  
