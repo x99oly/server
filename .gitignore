@@ -1,0 +1,12 @@
+# Arquivos específicos do JSON Server
+db.json
+
+# Diretório de node_modules (se não for controlar as dependências)
+node_modules/
+
+# Arquivo de lock de dependências do npm (se não for controlar as dependências)
+package-lock.json
+
+# Outros arquivos ou diretórios que deseja ignorar
+.env           # Se você tiver variáveis de ambiente sensíveis no arquivo .env
+logs/          # Diretório de logs, se for gerado automaticamente
